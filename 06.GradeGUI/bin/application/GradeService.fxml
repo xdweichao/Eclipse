@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+
+<GridPane hgap="10.0" prefHeight="275.0" prefWidth="300.0" stylesheets="@application.css" vgap="10.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/9.0.1" fx:controller="application.GradeServiceController">
+   <children>
+      <Text id="welcome-text" strokeType="OUTSIDE" strokeWidth="0.0" text="Grade Service" GridPane.columnSpan="2" />
+      <Label text="Grade Entered: " GridPane.rowIndex="1" />
+      <Label text="Grade Status: " GridPane.rowIndex="2" />
+      <TextField fx:id="txtGradeEntered" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <TextField fx:id="txtGradeStatus" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <HBox alignment="BOTTOM_RIGHT" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+         <children>
+            <Button fx:id="btnCalculate" alignment="CENTER" mnemonicParsing="false" onAction="#click" text="Calculate" />
+         </children>
+      </HBox>
+      <Text fx:id="actiontarget" onDragDetected="#txtErrorMessage" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+   </children>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+   </columnConstraints>
+   <padding>
+      <Insets bottom="10.0" left="25.0" right="25.0" top="25.0" />
+   </padding>
+</GridPane>
