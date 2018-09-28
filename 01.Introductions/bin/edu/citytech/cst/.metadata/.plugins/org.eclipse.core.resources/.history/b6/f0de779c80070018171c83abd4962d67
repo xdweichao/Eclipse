@@ -1,0 +1,18 @@
+package edu.citytech.cst.service;
+
+public class GradeCalculator {
+
+		public static String midtermStatus(float grade){
+			String status = "";
+			if (grade >= 65){
+				status = "passing";
+			} else {
+				status = "failing";
+			};
+			return status;
+		} 
+
+		public static String getLetterGrade(float grade) {
+			return "F";
+		}
+}

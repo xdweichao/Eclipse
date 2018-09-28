@@ -1,0 +1,22 @@
+package edu.citytech.cst;
+
+import edu.citytech.cst.service.GradeCalculator;
+
+public class _Driver1Grades {
+
+	public static void main(String[] args) {
+		// CST 3613 Wei Liang
+		float[] grades = {100, 90, 44, 66, 80};
+		
+		String status = "";
+		
+		for (float f : grades) {
+			
+			status = GradeCalculator.midtermStatus(f);
+
+			System.out.println(f + " " + status);
+		}
+		
+	}
+
+}

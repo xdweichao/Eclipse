@@ -1,0 +1,37 @@
+package edu.citytech.cst.service;
+
+public class GradeCalculator {
+
+		public static String midtermStatus(float grade){
+			String status = "";
+			if (grade >= 65){
+				status = "passing";
+			} else {
+				status = "failing";
+			};
+			return status;
+		} 
+
+		public static String getLetterGrade(float grades) {
+			String status= "";
+			
+			int grade = (int) grades;
+			
+			switch(grade){
+			case (93 <= grade && grade < 100): status = "A"; break;
+			case (90 <= grade && grade < 93): status = "A-"; break;
+			case (87 <= grade && grade < 90): status = "B+"; break; 
+			case (83 <= grade && grade < 87): status = "B"; break;
+			case (80 <= grade && grade < 83): status = "B-"; break;
+			case (77 <= grade && grade < 87): status = "C+"; break;
+			case (70 <= grade && grade < 83): status = "C"; break;
+			case (60 <= grade && grade < 87): status = "C-"; break;
+			case (grade < 60): status = "F"; break;
+			default: status = "N/A";
+			}
+			
+			
+			
+			return "status";
+		}
+}

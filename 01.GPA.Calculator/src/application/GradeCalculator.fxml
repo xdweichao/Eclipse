@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane hgap="10.0" vgap="10.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.GradeCalculatorController">
+   <columnConstraints>
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <children>
+      <HBox alignment="CENTER_LEFT" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="1">
+         <children>
+            <Label fx:id="lbl_score" alignment="CENTER" text="Score Input" textAlignment="CENTER" />
+         </children>
+      </HBox>
+      <Button fx:id="btn_01" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="1" GridPane.rowIndex="2" />
+      <Button fx:id="btn_02" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="2" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <Button fx:id="btn_03" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="3" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+      <Button fx:id="btn_gpa" alignment="CENTER" mnemonicParsing="false" onAction="#mode" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(255, 176, 132);" text="GPA" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+      <Button fx:id="btn_04" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="4" GridPane.rowIndex="3" />
+      <Button fx:id="btn_05" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="5" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <Button fx:id="btn_06" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="6" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+      <Button fx:id="btn_af" alignment="CENTER" mnemonicParsing="false" onAction="#mode" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(255, 176, 132);" text="A - F" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+      <Button fx:id="btn_07" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="7" GridPane.rowIndex="4" />
+      <Button fx:id="btn_08" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="8" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <Button fx:id="btn_09" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="9" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+      <Button fx:id="btn_midterm" alignment="CENTER" mnemonicParsing="false" onAction="#mode" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(255, 176, 132);" text="Midterm" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+      <Button fx:id="btn_00" alignment="CENTER" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="0" GridPane.rowIndex="5" />
+      <Button fx:id="btn_period" alignment="CENTER" mnemonicParsing="false" onAction="#numberPressed" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(189, 215, 238); -fx-border-color: black;" text="." GridPane.columnIndex="1" GridPane.rowIndex="5" />
+      <Button fx:id="btn_clear" alignment="CENTER" mnemonicParsing="false" onAction="#numberClear" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(201, 201, 201);" text="Clear" GridPane.columnIndex="2" GridPane.rowIndex="5">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Button fx:id="btn_calculate" alignment="CENTER" mnemonicParsing="false" onAction="#calculate" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: rgb(201, 201, 201);" text="Calculate" GridPane.columnIndex="3" GridPane.rowIndex="5">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <HBox alignment="CENTER" GridPane.rowIndex="6">
+         <children>
+            <Label text="Developer:" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" GridPane.rowIndex="7">
+         <children>
+            <Label alignment="CENTER" text="url:" />
+         </children>
+      </HBox>
+      <Label fx:id="lbl_developer" alignment="CENTER" text="Liang, Wei" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+      <HBox alignment="CENTER_LEFT" GridPane.columnIndex="1" GridPane.columnSpan="3" GridPane.rowIndex="7">
+         <children>
+            <Label fx:id="lbl_url" alignment="CENTER" text="http://localhost:8080" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnSpan="4">
+         <children>
+            <Label fx:id="lbl_mode" contentDisplay="CENTER" text="Score Calculator" textAlignment="CENTER" textFill="#30c32d">
+               <font>
+                  <Font name="System Bold" size="36.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" />
+               </padding>
+            </Label>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" GridPane.columnSpan="2" GridPane.rowIndex="1">
+         <children>
+            <Label fx:id="lbl_errormessage" text="Please input Score &amp; select Mode" textFill="RED" />
+         </children>
+      </HBox>
+   </children>
+   <padding>
+      <Insets bottom="25.0" left="25.0" right="10.0" top="25.0" />
+   </padding>
+</GridPane>
