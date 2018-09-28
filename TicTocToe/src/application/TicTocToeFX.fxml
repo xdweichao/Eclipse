@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane hgap="10.0" vgap="10.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.tictocController">
+   <children>
+      <Button fx:id="btn_01" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.rowIndex="4">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_02" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="1" GridPane.rowIndex="4">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_03" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="2" GridPane.rowIndex="4">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <HBox alignment="CENTER" GridPane.columnSpan="3">
+         <children>
+            <Label alignment="CENTER" text="Tic Toc Toe" textFill="#18dd1e" underline="true">
+               <font>
+                  <Font name="System Bold" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <Button fx:id="btn_04" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.rowIndex="5" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_05" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="1" GridPane.rowIndex="5" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_06" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="2" GridPane.rowIndex="5" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_07" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.rowIndex="8" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_08" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="1" GridPane.rowIndex="8" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_09" mnemonicParsing="false" onAction="#onClick" prefHeight="100.0" prefWidth="100.0" text="?" GridPane.columnIndex="2" GridPane.rowIndex="8" GridPane.rowSpan="3">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Button>
+      <HBox alignment="CENTER" GridPane.columnSpan="3" GridPane.rowIndex="3">
+         <children>
+            <Label fx:id="lbl_turn" text="[ X ] Player 1's Turn" textFill="RED">
+               <font>
+                  <Font name="System Bold" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <Button fx:id="btn_giveup" mnemonicParsing="false" onAction="#giveup" prefHeight="50.0" prefWidth="100.0" text="Give Up" GridPane.rowIndex="1" GridPane.rowSpan="2">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_restart" mnemonicParsing="false" onAction="#restart" prefHeight="50.0" prefWidth="210.0" text="Restart" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="1" GridPane.rowSpan="2">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Button>
+   </children>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" />
+   </rowConstraints>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0" />
+   </columnConstraints>
+   <padding>
+      <Insets bottom="25.0" left="25.0" right="25.0" top="25.0" />
+   </padding>
+</GridPane>
