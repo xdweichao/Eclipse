@@ -1,0 +1,5588 @@
+[
+	{
+		"simpleId": 1000,
+		"_id": "G-3004",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			97,
+			98,
+			95,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 96.75
+	},
+	{
+		"simpleId": 1001,
+		"_id": "A-9800",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			98,
+			92,
+			97,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 96.75
+	},
+	{
+		"simpleId": 1002,
+		"_id": "S-9403",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			100,
+			99,
+			97,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 98.5
+	},
+	{
+		"simpleId": 1003,
+		"_id": "A-7148",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			93,
+			99,
+			100,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 96.5
+	},
+	{
+		"simpleId": 1004,
+		"_id": "W-3843",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			99,
+			94,
+			97,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 95.75
+	},
+	{
+		"simpleId": 1005,
+		"_id": "H-4323",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			98,
+			95,
+			92,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 95.5
+	},
+	{
+		"simpleId": 1006,
+		"_id": "A-9205",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			98,
+			93,
+			97,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1007,
+		"_id": "Q-1804",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			96,
+			100,
+			100,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 98.75
+	},
+	{
+		"simpleId": 1008,
+		"_id": "P-9330",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			100,
+			99,
+			97,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 98.25
+	},
+	{
+		"simpleId": 1009,
+		"_id": "F-9283",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			93,
+			96,
+			94,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1010,
+		"_id": "Z-4706",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			98,
+			96,
+			99,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 97
+	},
+	{
+		"simpleId": 1011,
+		"_id": "S-2553",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			96,
+			93,
+			99,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 95.25
+	},
+	{
+		"simpleId": 1012,
+		"_id": "E-2498",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			92,
+			97,
+			96,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 96
+	},
+	{
+		"simpleId": 1013,
+		"_id": "W-7291",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			95,
+			96,
+			95,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 95.5
+	},
+	{
+		"simpleId": 1014,
+		"_id": "N-8853",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			96,
+			100,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 95.25
+	},
+	{
+		"simpleId": 1015,
+		"_id": "Z-4421",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			99,
+			98,
+			97,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 96.5
+	},
+	{
+		"simpleId": 1016,
+		"_id": "S-6535",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			100,
+			98,
+			97,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 97.5
+	},
+	{
+		"simpleId": 1017,
+		"_id": "R-2802",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			100,
+			94,
+			97,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 95.75
+	},
+	{
+		"simpleId": 1018,
+		"_id": "V-1620",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			100,
+			92,
+			100,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 96.25
+	},
+	{
+		"simpleId": 1019,
+		"_id": "V-4238",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			98,
+			93,
+			94,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 95.75
+	},
+	{
+		"simpleId": 1020,
+		"_id": "G-7022",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			94,
+			93,
+			94,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1021,
+		"_id": "S-8679",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			96,
+			92,
+			97,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 95.5
+	},
+	{
+		"simpleId": 1022,
+		"_id": "Y-6814",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			97,
+			98,
+			100,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 98.75
+	},
+	{
+		"simpleId": 1023,
+		"_id": "G-8420",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			95,
+			99,
+			92,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1024,
+		"_id": "U-1451",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			90,
+			93,
+			93,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1025,
+		"_id": "A-4627",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			89,
+			100,
+			92,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1026,
+		"_id": "T-6174",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			89,
+			92,
+			96,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 94.25
+	},
+	{
+		"simpleId": 1027,
+		"_id": "R-4324",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			85,
+			95,
+			94,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1028,
+		"_id": "T-7806",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			86,
+			99,
+			93,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1029,
+		"_id": "N-3361",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			88,
+			94,
+			95,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1030,
+		"_id": "A-3077",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			84,
+			98,
+			96,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1031,
+		"_id": "I-1292",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			90,
+			95,
+			96,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 95.25
+	},
+	{
+		"simpleId": 1032,
+		"_id": "M-8176",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			82,
+			97,
+			94,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 92.25
+	},
+	{
+		"simpleId": 1033,
+		"_id": "K-7998",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			82,
+			95,
+			93,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1034,
+		"_id": "H-1247",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			84,
+			96,
+			99,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1035,
+		"_id": "C-3068",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			83,
+			93,
+			93,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1036,
+		"_id": "R-2129",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			85,
+			96,
+			100,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1037,
+		"_id": "P-9874",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			84,
+			99,
+			98,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1038,
+		"_id": "O-5717",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			83,
+			94,
+			93,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 90.75
+	},
+	{
+		"simpleId": 1039,
+		"_id": "L-4213",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			83,
+			95,
+			92,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 92.25
+	},
+	{
+		"simpleId": 1040,
+		"_id": "P-7152",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			82,
+			93,
+			95,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1041,
+		"_id": "I-5214",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			87,
+			99,
+			93,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1042,
+		"_id": "F-9948",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			88,
+			93,
+			99,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 94.75
+	},
+	{
+		"simpleId": 1043,
+		"_id": "Y-9171",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			87,
+			97,
+			94,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1044,
+		"_id": "K-1669",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			94,
+			97,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1045,
+		"_id": "T-2830",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			85,
+			98,
+			97,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1046,
+		"_id": "Q-3603",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			88,
+			98,
+			94,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 94.75
+	},
+	{
+		"simpleId": 1047,
+		"_id": "O-8700",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			90,
+			98,
+			94,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1048,
+		"_id": "O-1165",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			88,
+			93,
+			92,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 92.25
+	},
+	{
+		"simpleId": 1049,
+		"_id": "Y-2732",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			85,
+			98,
+			96,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1050,
+		"_id": "A-6451",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			90,
+			96,
+			95,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 94.75
+	},
+	{
+		"simpleId": 1051,
+		"_id": "Z-6284",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			89,
+			98,
+			100,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1052,
+		"_id": "A-4061",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			97,
+			93,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1053,
+		"_id": "Z-3972",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			89,
+			96,
+			97,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 94.25
+	},
+	{
+		"simpleId": 1054,
+		"_id": "L-4881",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			88,
+			99,
+			100,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 95.75
+	},
+	{
+		"simpleId": 1055,
+		"_id": "X-4879",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			82,
+			99,
+			93,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1056,
+		"_id": "P-9844",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			74,
+			77,
+			78,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1057,
+		"_id": "D-6434",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			78,
+			74,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1058,
+		"_id": "A-8814",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			78,
+			78,
+			76,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 77.5
+	},
+	{
+		"simpleId": 1059,
+		"_id": "L-2902",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			73,
+			73,
+			80,
+			81
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1060,
+		"_id": "K-9630",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			82,
+			77,
+			76,
+			82
+		],
+		"midtermStatus": "passing",
+		"average": 79.25
+	},
+	{
+		"simpleId": 1061,
+		"_id": "A-6149",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			77,
+			76,
+			79,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1062,
+		"_id": "X-7771",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			77,
+			76,
+			82,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 77.75
+	},
+	{
+		"simpleId": 1063,
+		"_id": "G-3602",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			73,
+			72,
+			77,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1064,
+		"_id": "V-4442",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			72,
+			81,
+			72,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1065,
+		"_id": "Q-3374",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			79,
+			82,
+			75,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 79
+	},
+	{
+		"simpleId": 1066,
+		"_id": "B-8551",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			74,
+			76,
+			73,
+			81
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1067,
+		"_id": "N-7567",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			80,
+			72,
+			81,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1068,
+		"_id": "K-2715",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			78,
+			72,
+			72,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1069,
+		"_id": "Q-3747",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			72,
+			76,
+			79,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1070,
+		"_id": "D-6808",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			80,
+			80,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 79
+	},
+	{
+		"simpleId": 1071,
+		"_id": "O-2870",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			72,
+			75,
+			73,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1072,
+		"_id": "L-9276",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			74,
+			75,
+			82,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 77.75
+	},
+	{
+		"simpleId": 1073,
+		"_id": "P-8676",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			72,
+			82,
+			76,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1074,
+		"_id": "X-8314",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			42,
+			61,
+			60,
+			48
+		],
+		"midtermStatus": "failing",
+		"average": 52.75
+	},
+	{
+		"simpleId": 1075,
+		"_id": "K-1907",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			50,
+			63,
+			65,
+			43
+		],
+		"midtermStatus": "failing",
+		"average": 55.25
+	},
+	{
+		"simpleId": 1076,
+		"_id": "P-4255",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			50,
+			62,
+			44,
+			58
+		],
+		"midtermStatus": "failing",
+		"average": 53.5
+	},
+	{
+		"simpleId": 1077,
+		"_id": "H-4459",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			51,
+			42,
+			54,
+			64
+		],
+		"midtermStatus": "failing",
+		"average": 52.75
+	},
+	{
+		"simpleId": 1078,
+		"_id": "N-4548",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			42,
+			42,
+			61,
+			57
+		],
+		"midtermStatus": "failing",
+		"average": 50.5
+	},
+	{
+		"simpleId": 1079,
+		"_id": "R-2049",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			59,
+			44,
+			55,
+			54
+		],
+		"midtermStatus": "failing",
+		"average": 53
+	},
+	{
+		"simpleId": 1080,
+		"_id": "V-6001",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			80,
+			89,
+			96,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 85.75
+	},
+	{
+		"simpleId": 1081,
+		"_id": "V-6002",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			87,
+			92,
+			95,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 86.75
+	},
+	{
+		"simpleId": 1082,
+		"_id": "J-6003",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			96,
+			89,
+			100,
+			82
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1083,
+		"_id": "X-6004",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			84,
+			88,
+			93,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 85.5
+	},
+	{
+		"simpleId": 1084,
+		"_id": "A-6005",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			89,
+			82,
+			97,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 86.25
+	},
+	{
+		"simpleId": 1085,
+		"_id": "G-6006",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			88,
+			74,
+			100,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 83.75
+	},
+	{
+		"simpleId": 1086,
+		"_id": "H-6007",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			87,
+			74,
+			93,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 81.5
+	},
+	{
+		"simpleId": 1087,
+		"_id": "R-6008",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			81,
+			78,
+			78,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 79
+	},
+	{
+		"simpleId": 1088,
+		"_id": "Y-6009",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			84,
+			73,
+			74,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1089,
+		"_id": "M-6010",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			82,
+			82,
+			76,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 80
+	},
+	{
+		"simpleId": 1090,
+		"_id": "N-6011",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			82,
+			77,
+			80,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 79.25
+	},
+	{
+		"simpleId": 1091,
+		"_id": "X-6012",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			96,
+			77,
+			76,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 80.25
+	},
+	{
+		"simpleId": 1092,
+		"_id": "Q-6013",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			91,
+			73,
+			79,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 80.75
+	},
+	{
+		"simpleId": 1093,
+		"_id": "I-6014",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			97,
+			72,
+			82,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 80.75
+	},
+	{
+		"simpleId": 1094,
+		"_id": "T-6015",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			99,
+			79,
+			77,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 82.25
+	},
+	{
+		"simpleId": 1095,
+		"_id": "O-6016",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			84,
+			74,
+			72,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1096,
+		"_id": "O-6017",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			93,
+			80,
+			75,
+			42
+		],
+		"midtermStatus": "passing",
+		"average": 72.5
+	},
+	{
+		"simpleId": 1097,
+		"_id": "H-6018",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			87,
+			78,
+			73,
+			50
+		],
+		"midtermStatus": "passing",
+		"average": 72
+	},
+	{
+		"simpleId": 1098,
+		"_id": "L-6019",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			79,
+			72,
+			81,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 82.5
+	},
+	{
+		"simpleId": 1099,
+		"_id": "B-6020",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			95,
+			80,
+			72,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 86
+	},
+	{
+		"simpleId": 1100,
+		"_id": "C-6021",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			93,
+			72,
+			79,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 85.75
+	},
+	{
+		"simpleId": 1101,
+		"_id": "I-6022",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			83,
+			85,
+			79,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 84.25
+	},
+	{
+		"simpleId": 1102,
+		"_id": "U-6023",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			93,
+			77,
+			73,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 83
+	},
+	{
+		"simpleId": 1103,
+		"_id": "L-6024",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			86,
+			96,
+			82,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 88
+	},
+	{
+		"simpleId": 1104,
+		"_id": "V-6025",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			96,
+			83,
+			76,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 86.75
+	},
+	{
+		"simpleId": 1105,
+		"_id": "D-6026",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			78,
+			97,
+			60,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 81.5
+	},
+	{
+		"simpleId": 1106,
+		"_id": "C-6027",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			91,
+			96,
+			65,
+			87
+		],
+		"midtermStatus": "passing",
+		"average": 84.75
+	},
+	{
+		"simpleId": 1107,
+		"_id": "T-6028",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			96,
+			86,
+			44,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1108,
+		"_id": "V-6029",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			92,
+			79,
+			54,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1109,
+		"_id": "T-6030",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			87,
+			93,
+			61,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 84
+	},
+	{
+		"simpleId": 1110,
+		"_id": "V-6031",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			90,
+			99,
+			55,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 84
+	},
+	{
+		"simpleId": 1111,
+		"_id": "G-8398",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			99,
+			98,
+			89,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 96.5
+	},
+	{
+		"simpleId": 1112,
+		"_id": "K-9649",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			100,
+			92,
+			98,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 96
+	},
+	{
+		"simpleId": 1113,
+		"_id": "E-7186",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			93,
+			96,
+			98,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1114,
+		"_id": "E-8933",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			93,
+			89,
+			89,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 90
+	},
+	{
+		"simpleId": 1115,
+		"_id": "S-8559",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			90,
+			100,
+			88,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1116,
+		"_id": "V-9567",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			92,
+			96,
+			93,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 94.25
+	},
+	{
+		"simpleId": 1117,
+		"_id": "J-8614",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			100,
+			98,
+			90,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 95.75
+	},
+	{
+		"simpleId": 1118,
+		"_id": "[-8723",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			99,
+			98,
+			96,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 96.5
+	},
+	{
+		"simpleId": 1119,
+		"_id": "Z-9777",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			93,
+			91,
+			90,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 93.5
+	},
+	{
+		"simpleId": 1120,
+		"_id": "T-9590",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			88,
+			91,
+			91,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 89.5
+	},
+	{
+		"simpleId": 1121,
+		"_id": "R-7720",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			89,
+			100,
+			89,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1122,
+		"_id": "K-9593",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			95,
+			90,
+			89,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 92
+	},
+	{
+		"simpleId": 1123,
+		"_id": "[-8540",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			96,
+			95,
+			93,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1124,
+		"_id": "S-7694",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			100,
+			90,
+			90,
+			96
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1125,
+		"_id": "P-8630",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			90,
+			90,
+			92,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1126,
+		"_id": "C-8849",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			93,
+			88,
+			88,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 92
+	},
+	{
+		"simpleId": 1127,
+		"_id": "L-9506",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			95,
+			93,
+			88,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 92
+	},
+	{
+		"simpleId": 1128,
+		"_id": "P-9976",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			98,
+			90,
+			99,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1129,
+		"_id": "K-8953",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			95,
+			89,
+			94,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1130,
+		"_id": "Z-9778",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			100,
+			91,
+			90,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1131,
+		"_id": "H-8202",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			98,
+			96,
+			96,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1132,
+		"_id": "X-9970",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			90,
+			100,
+			97,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1133,
+		"_id": "T-7747",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			99,
+			91,
+			99,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1134,
+		"_id": "Q-7166",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			96,
+			99,
+			94,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 95.25
+	},
+	{
+		"simpleId": 1135,
+		"_id": "B-8195",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			98,
+			89,
+			91,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1136,
+		"_id": "F-7692",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			97,
+			90,
+			94,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1137,
+		"_id": "C-7276",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			97,
+			88,
+			96,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1138,
+		"_id": "R-9241",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			99,
+			88,
+			90,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1139,
+		"_id": "I-9313",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			92,
+			93,
+			96,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1140,
+		"_id": "]-9847",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			98,
+			99,
+			94,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 95.5
+	},
+	{
+		"simpleId": 1141,
+		"_id": "H-9856",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			89,
+			100,
+			94,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1142,
+		"_id": "]-7064",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			98,
+			95,
+			94,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 95.5
+	},
+	{
+		"simpleId": 1143,
+		"_id": "S-9393",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			89,
+			93,
+			92,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1144,
+		"_id": "F-9409",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			95,
+			95,
+			93,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 94.25
+	},
+	{
+		"simpleId": 1145,
+		"_id": "X-9717",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			95,
+			97,
+			89,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 95.25
+	},
+	{
+		"simpleId": 1146,
+		"_id": "V-9011",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			88,
+			100,
+			92,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1147,
+		"_id": "Q-8579",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			92,
+			98,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1148,
+		"_id": "I-7794",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			97,
+			89,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1149,
+		"_id": "V-8136",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			92,
+			98,
+			99,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 96.5
+	},
+	{
+		"simpleId": 1150,
+		"_id": "G-7849",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			92,
+			89,
+			91,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1151,
+		"_id": "A-8720",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			88,
+			97,
+			91,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1152,
+		"_id": "M-9025",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			95,
+			92,
+			88,
+			95
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1153,
+		"_id": "B-8703",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			92,
+			98,
+			93,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 93.5
+	},
+	{
+		"simpleId": 1154,
+		"_id": "Y-8449",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			98,
+			93,
+			95,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1155,
+		"_id": "H-8455",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			94,
+			100,
+			100,
+			91
+		],
+		"midtermStatus": "passing",
+		"average": 96.25
+	},
+	{
+		"simpleId": 1156,
+		"_id": "O-8910",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			88,
+			93,
+			99,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1157,
+		"_id": "V-8416",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			98,
+			91,
+			88,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1158,
+		"_id": "[-9440",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			99,
+			92,
+			91,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1159,
+		"_id": "I-9986",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			93,
+			97,
+			92,
+			97
+		],
+		"midtermStatus": "passing",
+		"average": 94.75
+	},
+	{
+		"simpleId": 1160,
+		"_id": "[-9612",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			95,
+			93,
+			92,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 93.5
+	},
+	{
+		"simpleId": 1161,
+		"_id": "V-9808",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			88,
+			94,
+			98,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 93
+	},
+	{
+		"simpleId": 1162,
+		"_id": "F-7944",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			90,
+			89,
+			94,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 92.75
+	},
+	{
+		"simpleId": 1163,
+		"_id": "F-7723",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			98,
+			92,
+			96,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1164,
+		"_id": "H-9914",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			88,
+			97,
+			90,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 90.75
+	},
+	{
+		"simpleId": 1165,
+		"_id": "G-7301",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			95,
+			91,
+			100,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 93.5
+	},
+	{
+		"simpleId": 1166,
+		"_id": "Z-9368",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			88,
+			96,
+			99,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1167,
+		"_id": "X-9510",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			98,
+			93,
+			96,
+			88
+		],
+		"midtermStatus": "passing",
+		"average": 93.75
+	},
+	{
+		"simpleId": 1168,
+		"_id": "W-8908",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			94,
+			90,
+			92,
+			100
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1169,
+		"_id": "J-8536",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			100,
+			94,
+			94,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 95
+	},
+	{
+		"simpleId": 1170,
+		"_id": "K-7573",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			93,
+			92,
+			89,
+			92
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1171,
+		"_id": "U-9361",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			95,
+			90,
+			89,
+			99
+		],
+		"midtermStatus": "passing",
+		"average": 93.25
+	},
+	{
+		"simpleId": 1172,
+		"_id": "K-9822",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			91,
+			92,
+			97,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 94.5
+	},
+	{
+		"simpleId": 1173,
+		"_id": "]-8581",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			88,
+			91,
+			98,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 91.5
+	},
+	{
+		"simpleId": 1174,
+		"_id": "[-9696",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			93,
+			100,
+			99,
+			98
+		],
+		"midtermStatus": "passing",
+		"average": 97.5
+	},
+	{
+		"simpleId": 1175,
+		"_id": "]-8229",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			90,
+			98,
+			88,
+			93
+		],
+		"midtermStatus": "passing",
+		"average": 92.25
+	},
+	{
+		"simpleId": 1176,
+		"_id": "Y-9406",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			91,
+			93,
+			96,
+			90
+		],
+		"midtermStatus": "passing",
+		"average": 92.5
+	},
+	{
+		"simpleId": 1177,
+		"_id": "P-9773",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			90,
+			92,
+			100,
+			94
+		],
+		"midtermStatus": "passing",
+		"average": 94
+	},
+	{
+		"simpleId": 1178,
+		"_id": "B-9608",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			97,
+			90,
+			91,
+			89
+		],
+		"midtermStatus": "passing",
+		"average": 91.75
+	},
+	{
+		"simpleId": 1179,
+		"_id": "K-7246",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			76,
+			79,
+			75,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1180,
+		"_id": "B-9191",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			78,
+			79,
+			76,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1181,
+		"_id": "J-8106",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			72,
+			77,
+			70,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1182,
+		"_id": "S-7557",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			80,
+			78,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1183,
+		"_id": "E-8683",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			77,
+			71,
+			75,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1184,
+		"_id": "J-8033",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			71,
+			73,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1185,
+		"_id": "N-9446",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			71,
+			73,
+			74,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1186,
+		"_id": "Z-9516",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			80,
+			74,
+			70,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1187,
+		"_id": "]-7274",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			74,
+			79,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1188,
+		"_id": "Y-9936",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			73,
+			73,
+			76,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1189,
+		"_id": "M-9374",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			72,
+			71,
+			71,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 71.5
+	},
+	{
+		"simpleId": 1190,
+		"_id": "S-7221",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			78,
+			71,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1191,
+		"_id": "]-7870",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			75,
+			77,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1192,
+		"_id": "H-9425",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			76,
+			77,
+			78,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1193,
+		"_id": "U-8281",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			80,
+			75,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1194,
+		"_id": "Q-8388",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			78,
+			71,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1195,
+		"_id": "C-8414",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			77,
+			73,
+			80,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1196,
+		"_id": "R-9529",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			80,
+			72,
+			74,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1197,
+		"_id": "P-8084",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			75,
+			77,
+			79,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1198,
+		"_id": "U-9088",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			75,
+			77,
+			70,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1199,
+		"_id": "N-9444",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			74,
+			80,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1200,
+		"_id": "X-7634",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			76,
+			74,
+			71,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1201,
+		"_id": "X-9797",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			80,
+			75,
+			80,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 78.75
+	},
+	{
+		"simpleId": 1202,
+		"_id": "S-7659",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			71,
+			77,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1203,
+		"_id": "H-9502",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			76,
+			71,
+			72,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1204,
+		"_id": "M-7072",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			70,
+			80,
+			71,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1205,
+		"_id": "K-8715",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			77,
+			74,
+			70,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1206,
+		"_id": "I-9020",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			72,
+			76,
+			71,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 72.75
+	},
+	{
+		"simpleId": 1207,
+		"_id": "U-7588",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			78,
+			73,
+			76,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1208,
+		"_id": "Q-7009",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			73,
+			71,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 71.5
+	},
+	{
+		"simpleId": 1209,
+		"_id": "Z-8592",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			71,
+			75,
+			75,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1210,
+		"_id": "I-8267",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			76,
+			79,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1211,
+		"_id": "Z-7000",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			77,
+			74,
+			74,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1212,
+		"_id": "C-9478",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			79,
+			72,
+			73,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1213,
+		"_id": "Z-9306",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			75,
+			75,
+			76,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1214,
+		"_id": "[-8203",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			78,
+			78,
+			73,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1215,
+		"_id": "D-8554",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			76,
+			79,
+			75,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1216,
+		"_id": "V-8814",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			72,
+			75,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1217,
+		"_id": "D-7927",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			74,
+			74,
+			80,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1218,
+		"_id": "K-7791",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			80,
+			78,
+			80,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 79.5
+	},
+	{
+		"simpleId": 1219,
+		"_id": "Q-7410",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			79,
+			70,
+			73,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1220,
+		"_id": "Y-9564",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			77,
+			70,
+			77,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1221,
+		"_id": "C-9580",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			79,
+			78,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 78.25
+	},
+	{
+		"simpleId": 1222,
+		"_id": "K-7491",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			80,
+			72,
+			71,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1223,
+		"_id": "[-7218",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			71,
+			79,
+			70,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1224,
+		"_id": "I-9053",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			74,
+			76,
+			71,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1225,
+		"_id": "L-8968",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			70,
+			79,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1226,
+		"_id": "N-9668",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			73,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1227,
+		"_id": "B-7836",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			79,
+			72,
+			77,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1228,
+		"_id": "K-9831",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			78,
+			80,
+			80,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 79.25
+	},
+	{
+		"simpleId": 1229,
+		"_id": "J-8778",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			80,
+			76,
+			76,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1230,
+		"_id": "J-9801",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			74,
+			77,
+			71,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1231,
+		"_id": "P-8185",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			76,
+			78,
+			79,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1232,
+		"_id": "D-8563",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			73,
+			80,
+			74,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1233,
+		"_id": "F-7911",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			78,
+			75,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 78
+	},
+	{
+		"simpleId": 1234,
+		"_id": "C-8881",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			72,
+			77,
+			79,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1235,
+		"_id": "]-7943",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			71,
+			71,
+			74,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 71.75
+	},
+	{
+		"simpleId": 1236,
+		"_id": "R-7902",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			77,
+			73,
+			80,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 77.5
+	},
+	{
+		"simpleId": 1237,
+		"_id": "I-9084",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			77,
+			78,
+			79,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 78.5
+	},
+	{
+		"simpleId": 1238,
+		"_id": "I-7722",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			71,
+			77,
+			79,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1239,
+		"_id": "V-7154",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			70,
+			77,
+			71,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 72
+	},
+	{
+		"simpleId": 1240,
+		"_id": "P-7711",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			73,
+			77,
+			70,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1241,
+		"_id": "L-9389",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			74,
+			72,
+			74,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1242,
+		"_id": "Z-9888",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			77,
+			73,
+			72,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1243,
+		"_id": "V-8279",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			78,
+			77,
+			72,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1244,
+		"_id": "[-9374",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			74,
+			77,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1245,
+		"_id": "S-9087",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			73,
+			70,
+			78,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1246,
+		"_id": "H-7269",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			80,
+			78,
+			75,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 78
+	},
+	{
+		"simpleId": 1247,
+		"_id": "A-8558",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			75,
+			80,
+			73,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1248,
+		"_id": "]-7056",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			72,
+			80,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 77.5
+	},
+	{
+		"simpleId": 1249,
+		"_id": "Q-9492",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			74,
+			73,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1250,
+		"_id": "O-9803",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			76,
+			70,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 72.5
+	},
+	{
+		"simpleId": 1251,
+		"_id": "[-8952",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			76,
+			76,
+			75,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1252,
+		"_id": "W-9010",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			78,
+			75,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1253,
+		"_id": "Z-9338",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			77,
+			70,
+			71,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 72.5
+	},
+	{
+		"simpleId": 1254,
+		"_id": "Y-9704",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			77,
+			80,
+			71,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1255,
+		"_id": "]-8518",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			74,
+			79,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1256,
+		"_id": "L-8306",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			74,
+			80,
+			80,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1257,
+		"_id": "N-7095",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			78,
+			77,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1258,
+		"_id": "F-8980",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			77,
+			73,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1259,
+		"_id": "U-7634",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			75,
+			76,
+			75,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1260,
+		"_id": "H-8798",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			78,
+			77,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1261,
+		"_id": "W-9741",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			80,
+			77,
+			76,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1262,
+		"_id": "C-7918",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			74,
+			80,
+			73,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1263,
+		"_id": "P-9174",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			72,
+			71,
+			75,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1264,
+		"_id": "I-7643",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			76,
+			77,
+			80,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 78
+	},
+	{
+		"simpleId": 1265,
+		"_id": "P-9154",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			73,
+			80,
+			71,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1266,
+		"_id": "U-9897",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			71,
+			75,
+			75,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1267,
+		"_id": "X-8852",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			70,
+			76,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 72.75
+	},
+	{
+		"simpleId": 1268,
+		"_id": "C-8503",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			72,
+			71,
+			72,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1269,
+		"_id": "Z-7733",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			79,
+			73,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1270,
+		"_id": "L-7639",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			80,
+			70,
+			76,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1271,
+		"_id": "Z-9354",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			78,
+			70,
+			80,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1272,
+		"_id": "Z-7408",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			80,
+			74,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1273,
+		"_id": "R-7111",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			80,
+			78,
+			77,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 77.25
+	},
+	{
+		"simpleId": 1274,
+		"_id": "E-9878",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			79,
+			74,
+			75,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1275,
+		"_id": "K-8003",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			77,
+			73,
+			75,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1276,
+		"_id": "C-9904",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			76,
+			73,
+			80,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1277,
+		"_id": "P-8137",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			74,
+			79,
+			71,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1278,
+		"_id": "Z-9300",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			77,
+			78,
+			76,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1279,
+		"_id": "U-7900",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			73,
+			77,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1280,
+		"_id": "J-8758",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			70,
+			74,
+			76,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1281,
+		"_id": "J-7273",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			77,
+			75,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1282,
+		"_id": "C-7684",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			76,
+			76,
+			70,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1283,
+		"_id": "[-7305",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			75,
+			71,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1284,
+		"_id": "N-9366",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			74,
+			71,
+			71,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 71.5
+	},
+	{
+		"simpleId": 1285,
+		"_id": "C-9650",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			73,
+			79,
+			70,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1286,
+		"_id": "Z-9956",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			75,
+			77,
+			73,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1287,
+		"_id": "L-8302",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			74,
+			76,
+			74,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1288,
+		"_id": "O-8585",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			76,
+			72,
+			70,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1289,
+		"_id": "[-9146",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			76,
+			74,
+			79,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1290,
+		"_id": "P-8255",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			70,
+			77,
+			73,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1291,
+		"_id": "I-7885",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			70,
+			75,
+			77,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1292,
+		"_id": "B-9167",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			78,
+			74,
+			75,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1293,
+		"_id": "]-7653",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			79,
+			76,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1294,
+		"_id": "L-9949",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			75,
+			78,
+			77,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1295,
+		"_id": "E-8600",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			78,
+			80,
+			80,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 79.25
+	},
+	{
+		"simpleId": 1296,
+		"_id": "U-8394",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			76,
+			76,
+			70,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1297,
+		"_id": "A-9207",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			76,
+			77,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1298,
+		"_id": "[-9783",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			78,
+			70,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1299,
+		"_id": "S-8839",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			75,
+			77,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1300,
+		"_id": "Y-9597",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			70,
+			75,
+			74,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1301,
+		"_id": "]-8213",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			78,
+			70,
+			70,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1302,
+		"_id": "Y-7704",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			79,
+			72,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1303,
+		"_id": "P-9675",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			73,
+			74,
+			80,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1304,
+		"_id": "R-7770",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			78,
+			77,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1305,
+		"_id": "X-9617",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			73,
+			71,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1306,
+		"_id": "A-7265",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			79,
+			71,
+			79,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1307,
+		"_id": "N-9890",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			70,
+			71,
+			78,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1308,
+		"_id": "Y-7122",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			74,
+			76,
+			77,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1309,
+		"_id": "K-8146",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			78,
+			79,
+			77,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1310,
+		"_id": "Z-8561",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			78,
+			80,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 77.25
+	},
+	{
+		"simpleId": 1311,
+		"_id": "B-8839",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			73,
+			70,
+			73,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 71.5
+	},
+	{
+		"simpleId": 1312,
+		"_id": "U-9818",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			78,
+			76,
+			78,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 77
+	},
+	{
+		"simpleId": 1313,
+		"_id": "F-7184",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			70,
+			76,
+			79,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1314,
+		"_id": "X-9627",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			80,
+			70,
+			75,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1315,
+		"_id": "W-8715",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			75,
+			76,
+			70,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1316,
+		"_id": "E-9993",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			78,
+			73,
+			80,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 77.25
+	},
+	{
+		"simpleId": 1317,
+		"_id": "H-8028",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			74,
+			76,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1318,
+		"_id": "X-8480",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			76,
+			72,
+			78,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1319,
+		"_id": "T-9385",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			79,
+			72,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1320,
+		"_id": "E-9733",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			70,
+			75,
+			78,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1321,
+		"_id": "]-8047",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			75,
+			76,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1322,
+		"_id": "N-7862",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			71,
+			80,
+			74,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1323,
+		"_id": "O-9049",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			79,
+			71,
+			79,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1324,
+		"_id": "O-8065",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			76,
+			74,
+			74,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1325,
+		"_id": "T-8124",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			71,
+			74,
+			80,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1326,
+		"_id": "F-8507",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			78,
+			70,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1327,
+		"_id": "H-7451",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			71,
+			77,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1328,
+		"_id": "K-8755",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			76,
+			72,
+			70,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1329,
+		"_id": "Y-9213",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			77,
+			74,
+			78,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1330,
+		"_id": "R-9822",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			80,
+			78,
+			70,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1331,
+		"_id": "M-7100",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			78,
+			70,
+			80,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1332,
+		"_id": "J-7433",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			79,
+			75,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1333,
+		"_id": "G-8940",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			72,
+			71,
+			75,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1334,
+		"_id": "G-9829",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			80,
+			70,
+			74,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1335,
+		"_id": "X-9173",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			79,
+			72,
+			76,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1336,
+		"_id": "T-9133",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			75,
+			79,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1337,
+		"_id": "I-8799",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			79,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 78.5
+	},
+	{
+		"simpleId": 1338,
+		"_id": "Q-8640",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			76,
+			79,
+			74,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1339,
+		"_id": "U-8615",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			74,
+			74,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1340,
+		"_id": "N-9095",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			79,
+			78,
+			71,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1341,
+		"_id": "D-8268",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			70,
+			75,
+			79,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1342,
+		"_id": "T-7650",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			73,
+			71,
+			78,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1343,
+		"_id": "A-9652",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			77,
+			73,
+			72,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75
+	},
+	{
+		"simpleId": 1344,
+		"_id": "C-9011",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			80,
+			78,
+			78,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 78.5
+	},
+	{
+		"simpleId": 1345,
+		"_id": "Q-8464",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			76,
+			71,
+			79,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1346,
+		"_id": "S-9473",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			77,
+			70,
+			75,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1347,
+		"_id": "W-9008",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			77,
+			71,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1348,
+		"_id": "K-9847",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			72,
+			79,
+			80,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1349,
+		"_id": "I-7919",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			73,
+			79,
+			74,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1350,
+		"_id": "S-8016",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			71,
+			71,
+			79,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1351,
+		"_id": "L-7879",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			78,
+			77,
+			72,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1352,
+		"_id": "I-9515",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			71,
+			73,
+			76,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 72.5
+	},
+	{
+		"simpleId": 1353,
+		"_id": "K-7212",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			77,
+			70,
+			80,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1354,
+		"_id": "B-7118",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			78,
+			75,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1355,
+		"_id": "E-8742",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			78,
+			73,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 72.75
+	},
+	{
+		"simpleId": 1356,
+		"_id": "T-8288",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			76,
+			77,
+			70,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1357,
+		"_id": "L-7578",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			80,
+			80,
+			80,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 80
+	},
+	{
+		"simpleId": 1358,
+		"_id": "K-7762",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			73,
+			77,
+			74,
+			78
+		],
+		"midtermStatus": "passing",
+		"average": 75.5
+	},
+	{
+		"simpleId": 1359,
+		"_id": "A-7814",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			80,
+			74,
+			73,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1360,
+		"_id": "H-7627",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			78,
+			77,
+			77,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 77.75
+	},
+	{
+		"simpleId": 1361,
+		"_id": "Q-9844",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			75,
+			79,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1362,
+		"_id": "Z-8805",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			79,
+			76,
+			77,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 78
+	},
+	{
+		"simpleId": 1363,
+		"_id": "F-7058",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			79,
+			70,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 73.5
+	},
+	{
+		"simpleId": 1364,
+		"_id": "Y-9331",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			75,
+			75,
+			74,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1365,
+		"_id": "C-7762",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			77,
+			73,
+			73,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 74
+	},
+	{
+		"simpleId": 1366,
+		"_id": "H-9391",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			78,
+			73,
+			71,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73
+	},
+	{
+		"simpleId": 1367,
+		"_id": "Q-8206",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			73,
+			75,
+			77,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73.75
+	},
+	{
+		"simpleId": 1368,
+		"_id": "E-7137",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			77,
+			72,
+			77
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1369,
+		"_id": "P-9155",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			73,
+			73,
+			79,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76
+	},
+	{
+		"simpleId": 1370,
+		"_id": "L-8184",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			70,
+			72,
+			72,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 71.5
+	},
+	{
+		"simpleId": 1371,
+		"_id": "C-8215",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			70,
+			77,
+			75,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1372,
+		"_id": "A-8167",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			79,
+			70,
+			74,
+			70
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1373,
+		"_id": "W-7213",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			71,
+			72,
+			80,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1374,
+		"_id": "H-8327",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			79,
+			75,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.25
+	},
+	{
+		"simpleId": 1375,
+		"_id": "J-8496",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			74,
+			77,
+			74,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1376,
+		"_id": "H-7512",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			78,
+			78,
+			80,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 77.25
+	},
+	{
+		"simpleId": 1377,
+		"_id": "A-9342",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			80,
+			71,
+			77,
+			71
+		],
+		"midtermStatus": "passing",
+		"average": 74.75
+	},
+	{
+		"simpleId": 1378,
+		"_id": "L-9756",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			70,
+			77,
+			79,
+			72
+		],
+		"midtermStatus": "passing",
+		"average": 74.5
+	},
+	{
+		"simpleId": 1379,
+		"_id": "Q-7026",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			75,
+			71,
+			71,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 72.75
+	},
+	{
+		"simpleId": 1380,
+		"_id": "C-8058",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			78,
+			70,
+			78,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1381,
+		"_id": "]-8097",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			74,
+			70,
+			79,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1382,
+		"_id": "K-9009",
+		"gender": "female",
+		"county": "Bronx",
+		"exams": [
+			79,
+			79,
+			72,
+			76
+		],
+		"midtermStatus": "passing",
+		"average": 76.5
+	},
+	{
+		"simpleId": 1383,
+		"_id": "S-9271",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			72,
+			70,
+			73,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 72
+	},
+	{
+		"simpleId": 1384,
+		"_id": "F-8314",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			78,
+			79,
+			75,
+			73
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1385,
+		"_id": "Q-9925",
+		"gender": "female",
+		"county": "Staten Island",
+		"exams": [
+			74,
+			72,
+			80,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 75.25
+	},
+	{
+		"simpleId": 1386,
+		"_id": "S-8349",
+		"gender": "male",
+		"county": "Staten Island",
+		"exams": [
+			75,
+			78,
+			79,
+			75
+		],
+		"midtermStatus": "passing",
+		"average": 76.75
+	},
+	{
+		"simpleId": 1387,
+		"_id": "A-8039",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			79,
+			77,
+			74,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 77.5
+	},
+	{
+		"simpleId": 1388,
+		"_id": "C-9117",
+		"gender": "female",
+		"county": "Queens",
+		"exams": [
+			72,
+			73,
+			78,
+			80
+		],
+		"midtermStatus": "passing",
+		"average": 75.75
+	},
+	{
+		"simpleId": 1389,
+		"_id": "E-9875",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			75,
+			72,
+			72,
+			74
+		],
+		"midtermStatus": "passing",
+		"average": 73.25
+	},
+	{
+		"simpleId": 1390,
+		"_id": "F-7136",
+		"gender": "male",
+		"county": "Brooklyn",
+		"exams": [
+			71,
+			76,
+			79,
+			79
+		],
+		"midtermStatus": "passing",
+		"average": 76.25
+	},
+	{
+		"simpleId": 1391,
+		"_id": "L-8451",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			67,
+			62,
+			69,
+			66
+		],
+		"midtermStatus": "failing",
+		"average": 66
+	},
+	{
+		"simpleId": 1392,
+		"_id": "O-9868",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			63,
+			67,
+			61,
+			62
+		],
+		"midtermStatus": "failing",
+		"average": 63.25
+	},
+	{
+		"simpleId": 1393,
+		"_id": "H-9200",
+		"gender": "male",
+		"county": "Long Island",
+		"exams": [
+			61,
+			63,
+			60,
+			68
+		],
+		"midtermStatus": "failing",
+		"average": 63
+	},
+	{
+		"simpleId": 1394,
+		"_id": "]-7435",
+		"gender": "female",
+		"county": "Brooklyn",
+		"exams": [
+			62,
+			64,
+			69,
+			68
+		],
+		"midtermStatus": "failing",
+		"average": 65.75
+	},
+	{
+		"simpleId": 1395,
+		"_id": "K-9442",
+		"gender": "male",
+		"county": "Queens",
+		"exams": [
+			63,
+			61,
+			63,
+			63
+		],
+		"midtermStatus": "failing",
+		"average": 62.5
+	},
+	{
+		"simpleId": 1396,
+		"_id": "N-9532",
+		"gender": "female",
+		"county": "Long Island",
+		"exams": [
+			65,
+			65,
+			60,
+			61
+		],
+		"midtermStatus": "failing",
+		"average": 62.75
+	},
+	{
+		"simpleId": 1397,
+		"_id": "A-8256",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			62,
+			62,
+			65,
+			63
+		],
+		"midtermStatus": "failing",
+		"average": 63
+	},
+	{
+		"simpleId": 1398,
+		"_id": "V-7868",
+		"gender": "male",
+		"county": "Bronx",
+		"exams": [
+			60,
+			69,
+			62,
+			69
+		],
+		"midtermStatus": "failing",
+		"average": 65
+	}
+]

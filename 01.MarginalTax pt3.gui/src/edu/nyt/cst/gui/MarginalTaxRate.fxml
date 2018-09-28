@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="rbM" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="448.0" prefWidth="700.0" style="-fx-background-color: RGB(47,37,52);" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.nyt.cst.gui.MarginalTaxRateController">
+	<children>
+		<AnchorPane layoutX="258.0" layoutY="100.0" prefHeight="251.0" prefWidth="412.0" style="-fx-background-color: rgb(174,30,102);">
+			<children>
+				<TextField fx:id="txtSalaryAmount" layoutX="90.0" layoutY="65.0" prefHeight="25.0" prefWidth="237.0" promptText="Salary Amount" />
+				<TextField fx:id="txtTaxedIncome" editable="false" layoutX="90.0" layoutY="100.0" prefHeight="25.0" prefWidth="237.0" promptText="Taxed Income" />
+				<Button fx:id="btnCalculate" layoutX="89.0" layoutY="179.0" mnemonicParsing="false" onAction="#calculate" prefHeight="25.0" prefWidth="237.0" text="Calculate Tax Rate" />
+				<Label fx:id="lblMode" alignment="CENTER" layoutX="14.0" layoutY="8.0" prefHeight="45.0" prefWidth="388.0" text="Not Applicable" textAlignment="CENTER" textFill="#e6b4b4">
+					<font>
+						<Font size="30.0" />
+					</font>
+				</Label>
+				<TextField fx:id="txtTaxRate" editable="false" layoutX="89.0" layoutY="135.0" prefHeight="25.0" prefWidth="237.0" promptText="Tax Rate" />
+			</children>
+		</AnchorPane>
+		<Label layoutX="106.0" layoutY="12.0" prefHeight="70.0" prefWidth="506.0" text="Marginal Tax Rate 2017" textFill="#eddfdf">
+			<font>
+				<Font size="48.0" />
+			</font>
+		</Label>
+		<RadioButton fx:id="rbSingle" layoutX="51.0" layoutY="120.0" mnemonicParsing="false" onAction="#whichMode" text="Single Taxable Income" textFill="#dad3d3">
+			<toggleGroup>
+				<ToggleGroup fx:id="mtr_group" />
+			</toggleGroup>
+			<font>
+				<Font size="14.0" />
+			</font>
+		</RadioButton>
+		<RadioButton fx:id="rbMarriedFilingJointly" layoutX="51.0" layoutY="147.0" mnemonicParsing="false" onAction="#whichMode" text="Married Filing Jointly " textFill="#dad3d3" toggleGroup="$mtr_group">
+			<font>
+				<Font size="14.0" />
+			</font>
+		</RadioButton>
+		<RadioButton fx:id="rbQualifiedWidow" layoutX="51.0" layoutY="202.0" mnemonicParsing="false" onAction="#whichMode" prefHeight="17.0" prefWidth="181.0" text="Qualified Widow(er)" textFill="#dad3d3" toggleGroup="$mtr_group">
+			<font>
+				<Font size="14.0" />
+			</font>
+		</RadioButton>
+		<RadioButton fx:id="rbHeadOfHouseHold" layoutX="51.0" layoutY="228.0" mnemonicParsing="false" onAction="#whichMode" text="Head of Household " textFill="#dad3d3" toggleGroup="$mtr_group">
+			<font>
+				<Font size="14.0" />
+			</font>
+		</RadioButton>
+		<RadioButton fx:id="rbNotApplicable" layoutX="51.0" layoutY="255.0" mnemonicParsing="false" onAction="#whichMode" selected="true" text="Not Applicable" textFill="#dad3d3" toggleGroup="$mtr_group">
+			<font>
+				<Font size="14.0" />
+			</font>
+		</RadioButton>
+		<Label fx:id="lblMessage" layoutX="61.0" layoutY="372.0" prefHeight="57.0" prefWidth="581.0" style="-fx-background-color: white;" textAlignment="CENTER" textFill="#c33232" visible="false" wrapText="true">
+			<padding>
+				<Insets left="6.0" />
+			</padding>
+		</Label>
+      <RadioButton fx:id="rbMarriedFilingSeparately" layoutX="51.0" layoutY="175.0" mnemonicParsing="false" onAction="#whichMode" text="Married Filing Separately" textFill="#dad3d3" toggleGroup="$mtr_group">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </RadioButton>
+	</children>
+</AnchorPane>

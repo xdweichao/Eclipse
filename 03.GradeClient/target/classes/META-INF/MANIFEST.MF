@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 03.GradeClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kenny
+Implementation-Vendor-Id: 03.GradeClient
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/03.GradeClie
+ nt/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

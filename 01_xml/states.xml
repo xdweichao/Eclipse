@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE states[
+	<!ELEMENT states (state*, generalinformation)>
+	<!ELEMENT state (#PCDATA)>
+	<!ATTLIST state capital CDATA #REQUIRED>
+	<!ATTLIST state no CDATA #REQUIRED>	
+	<!ATTLIST state incometax (y|n) "y">
+	
+	<!ELEMENT generalinformation EMPTY>
+]>
+<states>
+	<state no="1" incometax="y" capital="Montgomery">Alabama</state>	
+	<state no="2" incometax="n" capital="Juneau">Alaska</state>	
+	<state no="3" incometax="y" capital="Phoenix">Arizona</state>	
+	<generalinformation />
+</states>
