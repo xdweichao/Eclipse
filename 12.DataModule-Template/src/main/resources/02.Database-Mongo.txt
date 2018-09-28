@@ -1,0 +1,6 @@
+public interface RestaurantRepository extends MongoRepository<Restaurants, String> {
+
+	public List<Restaurants> findByBorough(String borough, Pageable p);
+	public List<Restaurants> findByAddressZipcode(String zipcode, Pageable p);
+	public List<Restaurants> findByCuisine(String cuisine, Pageable p);
+}

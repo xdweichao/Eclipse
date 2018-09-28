@@ -1,0 +1,15 @@
+@RestController
+@RequestMapping("/restaurants")
+public class RestaurantResource {
+
+@Autowired
+	private RestaurantRepository foodRepository;
+
+	@GetMapping("/")
+	@ResponseBody
+	public List<Restaurants> findAll(@RequestParam(value = "limit", defaultValue = "25") int limit) {
+		Pageable p = PageRequest.of(0, limit);
+		return foodRepository.findAll(p).getContent();
+	}
+	
+}

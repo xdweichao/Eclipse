@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 12.DataModule
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Wei
+Implementation-Vendor-Id: 01.3613Midterm.MarginalTax
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

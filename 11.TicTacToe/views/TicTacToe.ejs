@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Tic Tac Toe</title>
+
+<link rel="stylesheet" type="text/css" href="./TicTacToe.css">
+<script src="./jquery-3.2.1.js"></script>
+</head>
+<body>
+	<div id="divBody"
+		style="width: 720px; height: 700px; border: solid 1px white;">
+
+		<table id="game" class="game">
+			<caption>Tic Tac Toe</caption>
+			<tbody>
+				<tr>
+					<td>N</td>
+					<td>N</td>
+					<td>N</td>
+				</tr>
+				<tr>
+					<td>N</td>
+					<td>N</td>
+					<td>N</td>
+				</tr>
+				<tr>
+					<td>N</td>
+					<td>N</td>
+					<td>N</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="3"><input id="reset" class="button" type="button"
+						value="Reset" /> <input id="position" class="button"
+						type="button" value="Numbers" /></td>
+				</tr>
+
+				<tr>
+					<td colspan="3" id="whoIsNext"></td>
+				</tr>
+				<tr>
+					<td colspan="3" id="gameStatus"></td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+	<script>
+	
+(function (){
+
+			var tds = document.querySelectorAll("tbody td");
+
+			var isX = true;
+
+			var checkWinner = function(){
+				if (tds[1].innerHTML == "O"){
+					var message = document.getElementById("gameStatus");
+					message.innerHTML = "Player O wins";
+					var turn = document.getElementById("whoIsNext");
+					turn.innerHTML = "";
+				}
+			};
+			
+			var yourMove = function() {
+
+				//this represent the class you are currently on
+				var currentTD = this;
+				
+				if (currentTD.innerHTML != "N") {
+					var message = document.getElementById("gameStatus");
+					message.innerHTML = "You are a cheater!";
+					return;
+				}
+
+				if (isX) {
+					currentTD.innerHTML = "X";
+					isX = false;
+					var turn = document.getElementById("whoIsNext");
+					turn.innerHTML = "Player 2's [O] turn";
+				} else {
+					currentTD.innerHTML = "O";
+					isX = true;
+					var turn = document.getElementById("whoIsNext");
+					turn.innerHTML = "Player 1's [X] turn";
+					checkWinner();
+				}
+
+			};
+			
+			tds.forEach( e => e.onclick = yourMove);
+			
+			reset.onclick = function(){
+				tds.forEach( e => e.innerHTML = "N");
+				var message = document.getElementById("gameStatus");
+				message.innerHTML = "";
+				var turn = document.getElementById("whoIsNext");
+				turn.innerHTML = "";
+			};
+			
+			position.onclick = function (){
+				var num = 1;
+				tds.forEach( e => {
+					e.innerHTML = num;
+					num = num + 1;})
+			};
+			
+			
+			
+}) ();
+	
+	
+	</script>
+
+</body>
+
+</html>

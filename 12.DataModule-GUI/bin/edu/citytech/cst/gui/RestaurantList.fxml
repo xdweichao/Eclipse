@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity"
+	minHeight="-Infinity" minWidth="-Infinity" prefHeight="389.0"
+	prefWidth="593.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="edu.citytech.cst.gui.RestaurantController">
+	<children>
+		<TableView fx:id="tbl_restaurants" layoutX="27.0" layoutY="68.0"
+			maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+			minWidth="-Infinity" prefHeight="234.0" prefWidth="542.0">
+			<columns>
+				<TableColumn fx:id="col_cuisine" prefWidth="109.0" text="Cuisine" />
+				<TableColumn fx:id="col_name" prefWidth="128.0" text="Name" />
+				<TableColumn fx:id="col_borough" prefWidth="103.0" text="Borough" />
+				<TableColumn fx:id="col_simpleid" prefWidth="113.0"
+					text="SimpleId" />
+				<TableColumn fx:id="col_zipcode" prefWidth="88.0" text="Zipcode" />
+			</columns>
+		</TableView>
+		<Label layoutX="53.0" layoutY="14.0" prefHeight="43.0"
+			prefWidth="102.0" text="Cuisine" textAlignment="CENTER">
+			<font>
+				<Font size="24.0" />
+			</font>
+		</Label>
+		<TextField fx:id="txt_cuisineSearch" layoutX="176.0"
+			layoutY="18.0" prefHeight="35.0" prefWidth="172.0" />
+		<Button fx:id="btn_search" layoutX="250.0" layoutY="327.0"
+			mnemonicParsing="false" onAction="#clickSearchByCuisine" text="Search" />
+	</children>
+</AnchorPane>

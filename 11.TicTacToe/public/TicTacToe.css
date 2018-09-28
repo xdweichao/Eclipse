@@ -1,0 +1,65 @@
+* {
+    font-family: Verdana;
+}
+
+table.game caption {
+    font-size: 200%;
+    padding-bottom: .1in;
+}
+
+#gameMode {
+	font-size: 125%;
+	margin-bottom: 15px;
+}
+
+table.game {
+    border-collapse: collapse;
+    margin-top: .5in;
+    margin-left: 1in;
+}
+
+h1 {
+	margin-left: 1in;
+}
+
+.game tbody td {
+    border: green 1px dashed;
+    height: 170px;
+    width: 170px;
+    font-size: 54pt;
+    text-align: center;
+}
+
+.game tfoot td {
+    text-align: center;
+    font-size: 44pt;
+}
+
+.winner {
+    color: green;
+}
+
+.button {
+
+    width: 190px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    font-size: 15pt;
+    border: solid 1px black;   
+    margin-bottom: 15px;                     
+}
+
+td.pink {
+    background-color: pink;
+}
+
+
+#gameStatus , #whoIsNext{
+    font-size: 15pt;
+    color:blue;
+}
+
+.nValue {
+    color: white;
+}
